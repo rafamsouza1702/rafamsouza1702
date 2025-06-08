@@ -80,7 +80,7 @@ I'm currently building a public portfolio showcasing real-world **Amazon Connect
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamsouza1702&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamsouza1702&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamsouza1702&layout=compact&theme=radical)](https://github.com/rafamsouza1702/github-readme-stats)
 
 ---
 
