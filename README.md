@@ -1,6 +1,11 @@
-## Hi there 👋
+## 🌐 Connect with Me
 
-**rafamsouza1702/rafamsouza1702** is a ✨ _special_ ✨ repository because its ME.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafamarques17/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rafamsouza1702)
+
+---
+
+✨ _Special_ ✨ repository because its ME.
 
 # 👋 Hey, I'm Rafael Marques
 
@@ -76,13 +81,6 @@ I'm currently building a public portfolio showcasing real-world **Amazon Connect
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamsouza1702&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamsouza1702&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafamarques17/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rafamsouza1702)
 
 ---
 
