@@ -76,13 +76,5 @@ I'm currently building a public portfolio showcasing real-world **Amazon Connect
 
 ---
 
-## 📊 GitHub Stats
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamsouza1702&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamsouza1702&layout=compact&theme=radical)](https://github.com/rafamsouza1702/github-readme-stats)
-
----
-
 > _"Designing great cloud systems isn't about what you build — it's about what you **enable**."_  
 > — Me, probably after diagramming 3 architectures in draw.io 😅
