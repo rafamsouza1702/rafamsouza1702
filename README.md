@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **rafamsouza1702/rafamsouza1702** is a ✨ _special_ ✨ repository because its ME.
 
 # 👋 Hey, I'm Rafael Marques
