@@ -77,8 +77,6 @@ I'm currently building a public portfolio showcasing real-world **Amazon Connect
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamsouza1702&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=rafamsouza1702&repo=AWS-certification-saa-c03&theme=radical)
-
 ---
 
 ## 🌐 Connect with Me
