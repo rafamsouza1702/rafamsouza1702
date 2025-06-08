@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Rafael Marques
 
-## 🌩️ Aspiring Cloud Solution Architect | Tech Lead @ SumUp
+## 🌩️ Aspiring Cloud Solution Architect | Tech Lead
 
 🎯 I'm a **Tech Lead ** transitioning into a full-fledged **Cloud Solution Architect**.  
 At the moment, I lead Contact Center platform efforts across **the globe**, delivering global-scale solutions in high-availability environments.
